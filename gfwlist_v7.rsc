@@ -1185,6 +1185,7 @@
     "code1984.com";
     "codeshare.io";
     "codeskulptor.org";
+    "cofacts.tw";
     "coin2co.in";
     "coinbase.com";
     "coinbene.com";
@@ -2488,6 +2489,7 @@
     "greenvpn.net";
     "greenvpn.org";
     "grindr.com";
+    "grok.com";
     "grotty-monday.com";
     "ground.news";
     "groups.google.cn";
