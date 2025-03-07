@@ -111,6 +111,7 @@
     "66.ca";
     "666kb.com";
     "666pool.cn";
+    "69shuba.cx";
     "6do.news";
     "6do.world";
     "6park.com";
@@ -2210,6 +2211,7 @@
     "github.blog";
     "github.com";
     "github.io";
+    "githubassets.com";
     "githubcopilot.com";
     "githubusercontent.com";
     "gizlen.net";
@@ -2481,6 +2483,7 @@
     "google.vu";
     "google.ws";
     "googleapis-cn.com";
+    "googleapis.com";
     "googleapps.com";
     "googlearth.com";
     "googleartproject.com";
@@ -3505,7 +3508,6 @@
     "manta.com";
     "manyvoices.news";
     "maplew.com";
-    "maps.googleapis.com";
     "marc.info";
     "marguerite.su";
     "martau.com";
@@ -4364,6 +4366,7 @@
     "politicalconsultation.org";
     "politiscales.net";
     "poloniex.com";
+    "polymarket.com";
     "polymer-project.org";
     "polymerhk.com";
     "poolbinance.com";
@@ -5543,7 +5546,6 @@
     "trafficmanager.net";
     "trans.wenweipo.com";
     "translate.goog";
-    "translate.googleapis.com";
     "transparency.org";
     "treemall.com.tw";
     "trendsmap.com";
@@ -6145,7 +6147,6 @@
     "wikiversity.org";
     "wikivoyage.org";
     "wikiwand.com";
-    "wikiwiki.jp";
     "wiktionary.org";
     "wildammo.com";
     "williamhill.com";
