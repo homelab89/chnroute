@@ -3763,6 +3763,7 @@
     "mummysgold.com";
     "murmur.tw";
     "musicade.net";
+    "musixmatch.com";
     "muslimvideo.com";
     "muzi.com";
     "muzi.net";
@@ -5713,6 +5714,7 @@
     "twitvid.com";
     "twitzap.com";
     "twiyia.com";
+    "twkan.com";
     "twnorth.org.tw";
     "twreporter.org";
     "twskype.com";
