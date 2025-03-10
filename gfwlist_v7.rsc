@@ -1017,6 +1017,7 @@
     "chapm25.com";
     "character.ai";
     "chat.lmsys.org";
+    "chat.openai.com";
     "chatgpt.com";
     "chatnook.com";
     "chaturbate.com";
@@ -4150,7 +4151,7 @@
     "oopsforum.com";
     "open.com.hk";
     "open.firstory.me";
-    "openai.com";
+    "open.spotify.com";
     "openallweb.com";
     "opendemocracy.net";
     "opendn.xyz";
@@ -5026,7 +5027,6 @@
     "spike.com";
     "sports.williamhill.com";
     "spotflux.com";
-    "spotify.com";
     "spreadsheet.new";
     "spreadshirt.es";
     "spreaker.com";
