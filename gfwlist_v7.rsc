@@ -54,6 +54,7 @@
     "2017.hk";
     "2021hkcharter.com";
     "2047.name";
+    "2047.one";
     "2049bbs.xyz";
     "21andy.com";
     "21sextury.com";
@@ -552,6 +553,7 @@
     "bcmorning.com";
     "bdsmvideos.net";
     "beaconevents.com";
+    "bearteach.com";
     "bebo.com";
     "beeg.com";
     "beepool.com";
@@ -886,6 +888,8 @@
     "c3pool.com";
     "cableav.tv";
     "cablegatesearch.net";
+    "cachefly.com";
+    "cachefly.net";
     "cachinese.com";
     "cacnw.com";
     "cactusvpn.com";
@@ -1318,6 +1322,7 @@
     "curvefish.com";
     "cusp.hk";
     "cusu.hk";
+    "cutout.pro";
     "cutscenes.net";
     "cw.com.tw";
     "cyberghost.natado.com";
@@ -1788,6 +1793,7 @@
     "faceless.me";
     "facesofnyfw.com";
     "facesoftibetanselfimmolators.info";
+    "factchecklab.org";
     "factpedia.org";
     "fail.hk";
     "faith100.org";
@@ -1875,7 +1881,6 @@
     "fdc89.jp";
     "feedburner.com";
     "feeder.co";
-    "feedly.comfastgpt.run";
     "feeds.fileforum.com";
     "feedx.net";
     "feelssh.com";
@@ -2065,6 +2070,7 @@
     "froth.zone";
     "fscked.org";
     "fsurf.com";
+    "ft.com";
     "ftchinese.com";
     "ftp1.biz";
     "ftpserver.biz";
@@ -2150,6 +2156,7 @@
     "gcmasia.com";
     "gcpnews.com";
     "gcr.io";
+    "gdaily.org";
     "gdbt.net";
     "gdzf.org";
     "geek-art.net";
@@ -2183,6 +2190,7 @@
     "getmdl.io";
     "getmicrosoftkey.com";
     "getoutline.org";
+    "getsession.org";
     "getsocialscope.com";
     "getsync.com";
     "gettr.com";
@@ -3886,6 +3894,7 @@
     "netflav.com";
     "netflix.com";
     "netflix.net";
+    "netlify.app";
     "netme.cc";
     "netsarang.com";
     "netsneak.com";
@@ -4996,6 +5005,7 @@
     "soundcloud.com";
     "soundofhope.kr";
     "soundofhope.org";
+    "soundon.fm";
     "soup.io";
     "soupofmedia.com";
     "sourceforge.net";
@@ -5294,6 +5304,7 @@
     "tfc-taiwan.org.tw";
     "tfhub.dev";
     "tfiflve.com";
+    "tg-me.com";
     "th.hao123.com";
     "thaicn.com";
     "thb.gov.tw";
@@ -5322,7 +5333,6 @@
     "thehindu.com";
     "thehun.net";
     "theinitium.com";
-    "themoviedb.org";
     "thenewslens.com";
     "thepiratebay.org";
     "theporndude.com";
@@ -6286,6 +6296,7 @@
     "x-art.com";
     "x-berry.com";
     "x-wall.org";
+    "x.ai";
     "x.co";
     "x.com";
     "x.company";
