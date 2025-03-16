@@ -334,6 +334,7 @@
     "aofriend.com.au";
     "aojiao.org";
     "aolchannels.aol.com";
+    "aomedia.org";
     "aomiwang.com";
     "apartmentratings.com";
     "apartments.com";
@@ -4428,7 +4429,7 @@
     "powerphoto.org";
     "ppy.sh";
     "prayforchina.net";
-    "premeforwindows7.com";
+    "prcleader.org";
     "premproxy.com";
     "presentation.new";
     "presentationzen.com";
