@@ -1230,6 +1230,7 @@
     "coin2co.in";
     "coinbase.com";
     "coinbene.com";
+    "coincarp.com";
     "coinegg.com";
     "coinex.com";
     "coingecko.com";
@@ -1673,7 +1674,6 @@
     "emule-ed2k.com";
     "emulefans.com";
     "emuparadise.me";
-    "en.favotter.net";
     "en.hao123.com";
     "enanyang.my";
     "encrypt.me";
@@ -1832,6 +1832,7 @@
     "fanbox.cc";
     "fangbinxing.com";
     "fangeming.com";
+    "fangeming.comffvpn.com";
     "fangeqiang.com";
     "fanglizhi.info";
     "fangmincn.org";
@@ -1854,13 +1855,11 @@
     "faqserv.com";
     "fartit.com";
     "farwestchina.com";
-    "fast.wistia.com";
     "fastestvpn.com";
     "fastpic.ru";
     "fastssh.com";
     "faststone.org";
     "fatbtc.com";
-    "favstar.fm";
     "fawanghuihui.org";
     "faydao.com";
     "faz.net";
@@ -1871,14 +1870,10 @@
     "fbcdn.net";
     "fbsbx.com";
     "fbworkmail.com";
-    "fc2.com";
-    "fc2blog.net";
-    "fc2china.com";
     "fc2cn.com";
     "fda.gov.tw";
     "fdc64.de";
     "fdc64.org";
-    "fdc89.jp";
     "feedburner.com";
     "feeder.co";
     "feeds.fileforum.com";
@@ -1894,8 +1889,6 @@
     "fengzhenghu.net";
     "fevernet.com";
     "ff.im";
-    "fffff.at";
-    "fflick.com";
     "ffvpn.com";
     "fgmtv.net";
     "fgmtv.org";
@@ -2164,6 +2157,7 @@
     "geekheart.info";
     "gekikame.com";
     "gelbooru.com";
+    "gemini.com";
     "generated.photos";
     "genius.com";
     "geocities.co.jp";
@@ -4133,6 +4127,7 @@
     "on.cc";
     "on2.com";
     "onapp.com";
+    "one.one.one.one";
     "onedrive.com";
     "onedrive.live.com";
     "onedumb.com";
@@ -5903,7 +5898,6 @@
     "video.aol.co.uk";
     "video.aol.com";
     "video.ap.org";
-    "video.fdbox.com";
     "video.foxbusiness.com";
     "videobam.com";
     "videodetective.com";
