@@ -42,8 +42,17 @@
     "1e100.net";
     "1eew.com";
     "1lib.at";
+    "1lib.cloud";
+    "1lib.cz";
+    "1lib.domains";
+    "1lib.education";
+    "1lib.eu";
+    "1lib.limited";
     "1lib.ph";
+    "1lib.pl";
+    "1lib.sk";
     "1lib.to";
+    "1lib.tw";
     "1mobile.com";
     "1mobile.tw";
     "1point3acres.com";
@@ -63,6 +72,7 @@
     "24hrs.ca";
     "24smile.org";
     "25u.com";
+    "2lib.org";
     "2lipstube.com";
     "2shared.com";
     "2waky.com";
@@ -75,6 +85,7 @@
     "3arabtv.com";
     "3boys2girls.com";
     "3d-game.com";
+    "3lib.net";
     "3proxy.ru";
     "3ren.ca";
     "3tui.net";
@@ -397,6 +408,7 @@
     "arethusa.su";
     "arlingtoncemetery.mil";
     "army.mil";
+    "art1lib.com";
     "art4tibet1998.org";
     "arte.tv";
     "artofpeacefoundation.org";
@@ -475,7 +487,11 @@
     "azureedge.net";
     "azurerms.com";
     "azurewebsites.net";
+    "b-ok.africa";
+    "b-ok.asia";
     "b-ok.cc";
+    "b-ok.global";
+    "b-ok.org";
     "b.hatena.ne.jp";
     "b0ne.com";
     "babylonbee.com";
@@ -788,9 +804,18 @@
     "boobstagram.com";
     "book.com.tw";
     "book.zi5.me";
+    "book4you.org";
     "bookdepository.com";
     "bookepub.com";
+    "bookfi.net";
     "books.com.tw";
+    "booksc.eu";
+    "booksc.me";
+    "booksc.org";
+    "booksc.xyz";
+    "bookshome.info";
+    "bookshome.net";
+    "bookshome.world";
     "booktopia.com.au";
     "bookwalker.com.tw";
     "boomssr.com";
@@ -1414,6 +1439,7 @@
     "ddns.net";
     "ddns.us";
     "de-sci.org";
+    "de1lib.org";
     "deadhouse.org";
     "deadline.com";
     "deaftone.com";
@@ -2252,6 +2278,7 @@
     "gnci.org.hk";
     "gnews.org";
     "go-pki.com";
+    "go-to-library.sk";
     "go-to-zlibrary.se";
     "go.nesnode.com";
     "go141.com";
@@ -2709,6 +2736,7 @@
     "hk.hao123img.com";
     "hk.jiepang.com";
     "hk01.com";
+    "hk1lib.org";
     "hk32168.com";
     "hka8964.wordpress.com";
     "hkacg.com";
@@ -3070,6 +3098,7 @@
     "isupportuyghurs.org";
     "itaboo.info";
     "itaiwan.gov.tw";
+    "italian-books.sk";
     "italiatibet.org";
     "itasoftware.com";
     "itemdb.com";
@@ -3374,6 +3403,9 @@
     "libertytimes.com.tw";
     "library.usc.cuhk.edu.hk";
     "libredd.it";
+    "libsolutions.app";
+    "libsolutions.domains";
+    "libsolutions.net";
     "lifemiles.com";
     "lighten.org.tw";
     "lighti.me";
@@ -3480,6 +3512,7 @@
     "m.plixi.com";
     "m.slandr.net";
     "ma.hao123.com";
+    "ma1lib.org";
     "macgamestore.com";
     "macrovpn.com";
     "macts.com.tw";
@@ -4812,6 +4845,7 @@
     "sftindia.org";
     "sftuk.org";
     "sfx.ms";
+    "sg1lib.org";
     "shadeyouvpn.com";
     "shadow.ma";
     "shadowsky.xyz";
@@ -4892,9 +4926,11 @@
     "sing-box.sagernet.org";
     "singaporepools.com.sg";
     "singfortibet.com";
+    "singlelogin.app";
     "singlelogin.me";
     "singlelogin.re";
     "singlelogin.se";
+    "singlelogin.site";
     "singpao.com.hk";
     "singtao.com";
     "singtaousa.com";
@@ -6499,8 +6535,13 @@
     "yyjlymb.xyz";
     "yysub.net";
     "yzzk.com";
+    "z-lib.gd";
+    "z-lib.gs";
     "z-lib.io";
     "z-lib.org";
+    "z-lib.ps";
+    "z-library.se";
+    "z-library.sk";
     "zacebook.com";
     "zalmos.com";
     "zamimg.com";
@@ -6560,6 +6601,9 @@
     "ziporn.com";
     "zippyshare.com";
     "zkaip.com";
+    "zlib.life";
+    "zlibcdn.com";
+    "zlibcdn2.com";
     "zmedia.com.tw";
     "zmw.cn";
     "zodgame.us";
