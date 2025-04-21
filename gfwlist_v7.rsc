@@ -42,17 +42,8 @@
     "1e100.net";
     "1eew.com";
     "1lib.at";
-    "1lib.cloud";
-    "1lib.cz";
-    "1lib.domains";
-    "1lib.education";
-    "1lib.eu";
-    "1lib.limited";
     "1lib.ph";
-    "1lib.pl";
-    "1lib.sk";
     "1lib.to";
-    "1lib.tw";
     "1mobile.com";
     "1mobile.tw";
     "1point3acres.com";
@@ -72,7 +63,6 @@
     "24hrs.ca";
     "24smile.org";
     "25u.com";
-    "2lib.org";
     "2lipstube.com";
     "2shared.com";
     "2waky.com";
@@ -85,7 +75,6 @@
     "3arabtv.com";
     "3boys2girls.com";
     "3d-game.com";
-    "3lib.net";
     "3proxy.ru";
     "3ren.ca";
     "3tui.net";
@@ -138,7 +127,6 @@
     "85st.com";
     "881903.com";
     "888.com";
-    "8888.google";
     "888poker.com";
     "89-64.org";
     "89.64.charter.constitutionalism.solutions";
@@ -408,7 +396,6 @@
     "arethusa.su";
     "arlingtoncemetery.mil";
     "army.mil";
-    "art1lib.com";
     "art4tibet1998.org";
     "arte.tv";
     "artofpeacefoundation.org";
@@ -447,9 +434,7 @@
     "atnext.com";
     "auctions.yahoo.co.jp";
     "audacy.com";
-    "audiomack.com";
     "auntology.fandom.com";
-    "auth.openai.com";
     "authorizeddns.net";
     "authorizeddns.org";
     "authorizeddns.us";
@@ -487,11 +472,7 @@
     "azureedge.net";
     "azurerms.com";
     "azurewebsites.net";
-    "b-ok.africa";
-    "b-ok.asia";
     "b-ok.cc";
-    "b-ok.global";
-    "b-ok.org";
     "b.hatena.ne.jp";
     "b0ne.com";
     "babylonbee.com";
@@ -804,18 +785,9 @@
     "boobstagram.com";
     "book.com.tw";
     "book.zi5.me";
-    "book4you.org";
     "bookdepository.com";
     "bookepub.com";
-    "bookfi.net";
     "books.com.tw";
-    "booksc.eu";
-    "booksc.me";
-    "booksc.org";
-    "booksc.xyz";
-    "bookshome.info";
-    "bookshome.net";
-    "bookshome.world";
     "booktopia.com.au";
     "bookwalker.com.tw";
     "boomssr.com";
@@ -1206,8 +1178,8 @@
     "cloakpoint.com";
     "cloud.dify.ai";
     "cloud.mail.ru";
-    "cloudflare-dns.com";
     "cloudflare-ipfs.com";
+    "cloudfront.net";
     "cloudfunctions.net";
     "club1069.com";
     "clubhouseapi.com";
@@ -1258,7 +1230,6 @@
     "coin2co.in";
     "coinbase.com";
     "coinbene.com";
-    "coincarp.com";
     "coinegg.com";
     "coinex.com";
     "coingecko.com";
@@ -1439,7 +1410,6 @@
     "ddns.net";
     "ddns.us";
     "de-sci.org";
-    "de1lib.org";
     "deadhouse.org";
     "deadline.com";
     "deaftone.com";
@@ -1703,6 +1673,7 @@
     "emule-ed2k.com";
     "emulefans.com";
     "emuparadise.me";
+    "en.favotter.net";
     "en.hao123.com";
     "enanyang.my";
     "encrypt.me";
@@ -1861,7 +1832,6 @@
     "fanbox.cc";
     "fangbinxing.com";
     "fangeming.com";
-    "fangeming.comffvpn.com";
     "fangeqiang.com";
     "fanglizhi.info";
     "fangmincn.org";
@@ -1870,7 +1840,6 @@
     "fangongheike.com";
     "fanhaodang.com";
     "fanhaolou.com";
-    "fani.com";
     "fanqiang.network";
     "fanqiang.tk";
     "fanqiangdang.com";
@@ -1885,12 +1854,13 @@
     "faqserv.com";
     "fartit.com";
     "farwestchina.com";
+    "fast.wistia.com";
     "fastestvpn.com";
     "fastpic.ru";
     "fastssh.com";
     "faststone.org";
     "fatbtc.com";
-    "favcomic.com";
+    "favstar.fm";
     "fawanghuihui.org";
     "faydao.com";
     "faz.net";
@@ -1901,10 +1871,14 @@
     "fbcdn.net";
     "fbsbx.com";
     "fbworkmail.com";
+    "fc2.com";
+    "fc2blog.net";
+    "fc2china.com";
     "fc2cn.com";
     "fda.gov.tw";
     "fdc64.de";
     "fdc64.org";
+    "fdc89.jp";
     "feedburner.com";
     "feeder.co";
     "feeds.fileforum.com";
@@ -1920,6 +1894,8 @@
     "fengzhenghu.net";
     "fevernet.com";
     "ff.im";
+    "fffff.at";
+    "fflick.com";
     "ffvpn.com";
     "fgmtv.net";
     "fgmtv.org";
@@ -2188,7 +2164,6 @@
     "geekheart.info";
     "gekikame.com";
     "gelbooru.com";
-    "gemini.com";
     "generated.photos";
     "genius.com";
     "geocities.co.jp";
@@ -2278,7 +2253,6 @@
     "gnci.org.hk";
     "gnews.org";
     "go-pki.com";
-    "go-to-library.sk";
     "go-to-zlibrary.se";
     "go.nesnode.com";
     "go141.com";
@@ -2556,6 +2530,7 @@
     "got-game.org";
     "gotdns.ch";
     "gotgeeks.com";
+    "gotquestions.org";
     "gotrusted.com";
     "gotw.ca";
     "gov.taipei";
@@ -2629,7 +2604,6 @@
     "gzm.tv";
     "gzone-anime.info";
     "h-china.org";
-    "h-ciyuan.com";
     "h-moe.com";
     "h1n1china.org";
     "h528.com";
@@ -2736,7 +2710,6 @@
     "hk.hao123img.com";
     "hk.jiepang.com";
     "hk01.com";
-    "hk1lib.org";
     "hk32168.com";
     "hka8964.wordpress.com";
     "hkacg.com";
@@ -2948,6 +2921,7 @@
     "idemocracy.asia";
     "identi.ca";
     "idiomconnection.com";
+    "idope.se";
     "idouga.com";
     "idreamx.com";
     "idv.tw";
@@ -3098,7 +3072,6 @@
     "isupportuyghurs.org";
     "itaboo.info";
     "itaiwan.gov.tw";
-    "italian-books.sk";
     "italiatibet.org";
     "itasoftware.com";
     "itemdb.com";
@@ -3403,9 +3376,6 @@
     "libertytimes.com.tw";
     "library.usc.cuhk.edu.hk";
     "libredd.it";
-    "libsolutions.app";
-    "libsolutions.domains";
-    "libsolutions.net";
     "lifemiles.com";
     "lighten.org.tw";
     "lighti.me";
@@ -3512,7 +3482,6 @@
     "m.plixi.com";
     "m.slandr.net";
     "ma.hao123.com";
-    "ma1lib.org";
     "macgamestore.com";
     "macrovpn.com";
     "macts.com.tw";
@@ -3548,7 +3517,6 @@
     "mansion.com";
     "mansionpoker.com";
     "manta.com";
-    "manwa.me";
     "manyvoices.news";
     "maplew.com";
     "marc.info";
@@ -4167,7 +4135,6 @@
     "on.cc";
     "on2.com";
     "onapp.com";
-    "one.one.one.one";
     "onedrive.com";
     "onedrive.live.com";
     "onedumb.com";
@@ -4198,7 +4165,6 @@
     "open.spotify.com";
     "openallweb.com";
     "opendemocracy.net";
-    "opendesktop.org";
     "opendn.xyz";
     "openervpn.in";
     "openid.net";
@@ -4739,7 +4705,6 @@
     "s3-ap-southeast-1.amazonaws.com";
     "s3-ap-southeast-2.amazonaws.com";
     "s3.amazonaws.com";
-    "s3.eu-central-1.amazonaws.com";
     "s8forum.com";
     "sa.hao123.com";
     "sacks.com";
@@ -4845,7 +4810,6 @@
     "sftindia.org";
     "sftuk.org";
     "sfx.ms";
-    "sg1lib.org";
     "shadeyouvpn.com";
     "shadow.ma";
     "shadowsky.xyz";
@@ -4923,14 +4887,11 @@
     "simpleproductivityblog.com";
     "simpleswap.io";
     "sinchew.com.my";
-    "sing-box.sagernet.org";
     "singaporepools.com.sg";
     "singfortibet.com";
-    "singlelogin.app";
     "singlelogin.me";
     "singlelogin.re";
     "singlelogin.se";
-    "singlelogin.site";
     "singpao.com.hk";
     "singtao.com";
     "singtaousa.com";
@@ -5039,7 +5000,6 @@
     "sosad.fun";
     "sosreader.com";
     "sostibet.org";
-    "sotwe.com";
     "soubory.com";
     "soul-plus.net";
     "soulcaliburhentai.net";
@@ -5102,7 +5062,6 @@
     "ssh91.com";
     "ssl.webpack.de";
     "ssl443.org";
-    "ssm.fun";
     "sspanel.net";
     "sspro.ml";
     "ssr.tools";
@@ -5170,6 +5129,7 @@
     "stumbleupon.com";
     "stupidvideos.com";
     "subacme.rerouted.org";
+    "subhd.tv";
     "substack.com";
     "successfn.com";
     "suche.gmx.net";
@@ -5404,7 +5364,6 @@
     "thlib.org";
     "thomasbernhard.org";
     "thongdreams.com";
-    "thotsbay.tv";
     "threadreaderapp.com";
     "threads.net";
     "threatchaos.com";
@@ -5903,7 +5862,6 @@
     "uygur.org";
     "uymaarip.com";
     "v2.help";
-    "v2.hysteria.network";
     "v2ex.com";
     "v2fly.org";
     "v2ray.com";
@@ -5948,6 +5906,7 @@
     "video.aol.co.uk";
     "video.aol.com";
     "video.ap.org";
+    "video.fdbox.com";
     "video.foxbusiness.com";
     "videobam.com";
     "videodetective.com";
@@ -6535,13 +6494,8 @@
     "yyjlymb.xyz";
     "yysub.net";
     "yzzk.com";
-    "z-lib.gd";
-    "z-lib.gs";
     "z-lib.io";
     "z-lib.org";
-    "z-lib.ps";
-    "z-library.se";
-    "z-library.sk";
     "zacebook.com";
     "zalmos.com";
     "zamimg.com";
@@ -6601,9 +6555,6 @@
     "ziporn.com";
     "zippyshare.com";
     "zkaip.com";
-    "zlib.life";
-    "zlibcdn.com";
-    "zlibcdn2.com";
     "zmedia.com.tw";
     "zmw.cn";
     "zodgame.us";
