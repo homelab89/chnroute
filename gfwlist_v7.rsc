@@ -1022,7 +1022,6 @@
     "chapm25.com";
     "character.ai";
     "chat.lmsys.org";
-    "chat.openai.com";
     "chatgpt.com";
     "chatnook.com";
     "chaturbate.com";
@@ -1470,6 +1469,7 @@
     "dish.com";
     "disk.yandex.com";
     "disk.yandex.ru";
+    "disneyplus.com";
     "disp.cc";
     "disqus.com";
     "dit-inc.us";
@@ -1853,6 +1853,7 @@
     "faqserv.com";
     "fartit.com";
     "farwestchina.com";
+    "fast.com";
     "fast.wistia.com";
     "fastestvpn.com";
     "fastpic.ru";
@@ -2619,6 +2620,7 @@
     "halktv.com.tr";
     "handcraftedsoftware.org";
     "hanime.tv";
+    "hanime1.me";
     "hanunyi.com";
     "hao.news";
     "happy-vpn.com";
@@ -3670,6 +3672,7 @@
     "mirrorbooks.com";
     "mirrormedia.mg";
     "missav.com";
+    "missav.ws";
     "mist.vip";
     "mitao.com.tw";
     "mitbbs.com";
@@ -4163,7 +4166,7 @@
     "oopsforum.com";
     "open.com.hk";
     "open.firstory.me";
-    "open.spotify.com";
+    "openai.com";
     "openallweb.com";
     "opendemocracy.net";
     "opendn.xyz";
@@ -4888,6 +4891,7 @@
     "simplecd.org";
     "simpleproductivityblog.com";
     "simpleswap.io";
+    "simplex.chat";
     "sinchew.com.my";
     "singaporepools.com.sg";
     "singfortibet.com";
@@ -5041,6 +5045,7 @@
     "spike.com";
     "sports.williamhill.com";
     "spotflux.com";
+    "spotify.com";
     "spreadsheet.new";
     "spreadshirt.es";
     "spreaker.com";
@@ -5288,6 +5293,7 @@
     "teensinasia.com";
     "tehrantimes.com";
     "telecomspace.com";
+    "telega.one";
     "telegra.ph";
     "telegram-cdn.org";
     "telegram.dog";
@@ -5297,6 +5303,7 @@
     "telegramdownload.com";
     "telegraph.co.uk";
     "telesco.pe";
+    "tellapart.com";
     "tellme.pw";
     "tenacy.com";
     "tenor.com";
@@ -5310,6 +5317,7 @@
     "tfhub.dev";
     "tfiflve.com";
     "tg-me.com";
+    "tg.dev";
     "th.hao123.com";
     "thaicn.com";
     "thb.gov.tw";
@@ -5742,6 +5750,7 @@
     "twttr.com";
     "twurl.nl";
     "twyac.org";
+    "tx.me";
     "txxx.com";
     "tycool.com";
     "typepad.com";
@@ -6561,6 +6570,7 @@
     "zmedia.com.tw";
     "zmw.cn";
     "zodgame.us";
+    "zodgame.xyz";
     "zomobo.net";
     "zonaeuropa.com";
     "zonghexinwen.com";
