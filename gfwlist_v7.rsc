@@ -278,6 +278,7 @@
     "alwaysvpn.com";
     "am730.com.hk";
     "amazon.co.jp";
+    "amazonvideo.com";
     "ameblo.jp";
     "americangreencard.com";
     "americanunfinished.com";
@@ -4455,6 +4456,7 @@
     "presidentlee.tw";
     "prestige-av.com";
     "pride.google";
+    "primevideo.com";
     "prism-break.org";
     "prisoneralert.com";
     "pritunl.com";
