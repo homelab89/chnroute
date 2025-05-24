@@ -4008,7 +4008,6 @@
     "nobel.se";
     "nobelprize.org";
     "nobodycanstop.us";
-    "nodeloc.com";
     "nodeseek.com";
     "nofile.io";
     "nokogiri.org";
@@ -4628,6 +4627,7 @@
     "redchinacn.org";
     "redd.it";
     "reddit.com";
+    "reddithelp.com";
     "redditlist.com";
     "redditmedia.com";
     "redditspace.com";
@@ -6308,6 +6308,7 @@
     "www.moztw.org";
     "www.msn.com";
     "www.nbc.com";
+    "www.nodeloc.com";
     "www.orchidbbs.com";
     "www.owind.com";
     "www.oxid.it";
