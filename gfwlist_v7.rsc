@@ -1307,6 +1307,7 @@
     "ct.org.tw";
     "ctao.org";
     "ctfriend.net";
+    "ctinews.com";
     "ctitv.com.tw";
     "ctowc.org";
     "cts.com.tw";
