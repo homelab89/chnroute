@@ -1995,6 +1995,7 @@
     "githubassets.com";
     "githubcopilot.com";
     "githubusercontent.com";
+    "gitlab.net";
     "gizlen.net";
     "gjczz.com";
     "glarity.app";
@@ -2426,6 +2427,7 @@
     "himalayanglacier.com";
     "himemix.com";
     "hindustantimes.com";
+    "hinet.net";
     "hitbtc.com";
     "hitomi.la";
     "hiveon.net";
