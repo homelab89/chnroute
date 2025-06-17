@@ -1061,7 +1061,6 @@
     "cloud.dify.ai";
     "cloud.mail.ru";
     "cloudflare-ipfs.com";
-    "cloudfront.net";
     "cloudfunctions.net";
     "club1069.com";
     "clubhouseapi.com";
@@ -1424,6 +1423,7 @@
     "dw-world.de";
     "dw.com";
     "dw.de";
+    "dweb.link";
     "dwnews.com";
     "dwnews.net";
     "dynamic-dns.net";
@@ -2718,6 +2718,7 @@
     "iownyour.org";
     "ipdefenseforum.com";
     "ipfire.org";
+    "ipfs.4everland.io";
     "ipfs.io";
     "iphone4hongkong.com";
     "iphonetaiwan.org";
@@ -3569,6 +3570,7 @@
     "nflximg.net";
     "nflxso.net";
     "nflxvideo.net";
+    "nftstorage.link";
     "nga.mil";
     "ngensis.com";
     "nhentai.net";
@@ -4625,6 +4627,7 @@
     "storj.io";
     "storm.mg";
     "stormmediagroup.com";
+    "storry.tv";
     "stoweboyd.com";
     "straitstimes.com";
     "stranabg.com";
@@ -5456,6 +5459,7 @@
     "vyprvpn.com";
     "w-pool.com";
     "w.idaiwan.com";
+    "w3s.link";
     "waffle1999.com";
     "wahas.com";
     "waikeung.org";
