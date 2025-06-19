@@ -1764,6 +1764,7 @@
     "focusvpn.com";
     "fofg.org";
     "fooooo.com";
+    "forbes.com";
     "forefront.ai";
     "foreignaffairs.com";
     "foreignpolicy.com";
