@@ -2669,6 +2669,7 @@
     "imdb.com";
     "img.dlsite.jp";
     "img.ly";
+    "img.picgo.net";
     "imgasd.com";
     "imgchili.net";
     "imgmega.com";
