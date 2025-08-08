@@ -566,6 +566,7 @@
     "bitcointalk.org";
     "bitcoinworld.com";
     "bitfinex.com";
+    "bitget.com";
     "bithumb.com";
     "bitmex.com";
     "bitshare.com";
@@ -1061,6 +1062,7 @@
     "clipfish.de";
     "cloud.dify.ai";
     "cloud.mail.ru";
+    "cloudflare-dns.com";
     "cloudflare-ipfs.com";
     "cloudfunctions.net";
     "club1069.com";
@@ -5262,6 +5264,7 @@
     "unstable.icu";
     "unwire.hk";
     "uocn.org";
+    "upbit.com";
     "updates.tdesktop.com";
     "upghsbc.com";
     "upholdjustice.org";
@@ -5692,7 +5695,6 @@
     "www.moztw.org";
     "www.msn.com";
     "www.nbc.com";
-    "www.nodeloc.com";
     "www.owind.com";
     "www.oxid.it";
     "www.powerpointninja.com";
