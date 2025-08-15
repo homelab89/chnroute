@@ -4697,6 +4697,7 @@
     "svc.ms";
     "svsfx.com";
     "swagbucks.com";
+    "swapspace.co";
     "sway-cdn.com";
     "sway-extensions.com";
     "sway.com";
