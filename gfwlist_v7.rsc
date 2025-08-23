@@ -1879,6 +1879,8 @@
     "ftx.com";
     "fucd.com";
     "fuchsia.dev";
+    "fuckccp.com";
+    "fuckccp.xyz";
     "fuckgfw.org";
     "fulione.com";
     "fullerconsideration.com";
