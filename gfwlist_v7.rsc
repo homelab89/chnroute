@@ -1706,6 +1706,7 @@
     "fdc89.jp";
     "feedburner.com";
     "feeder.co";
+    "feedly.com";
     "feeds.fileforum.com";
     "feedx.net";
     "feelssh.com";
@@ -3359,6 +3360,7 @@
     "mog.com";
     "mohu.club";
     "mohu.rocks";
+    "moj.gov.tw";
     "mojim.com";
     "mol.gov.tw";
     "molihua.org";
