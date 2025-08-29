@@ -1392,6 +1392,7 @@
     "doujincafe.com";
     "download.aircrack-ng.org";
     "download.cnet.com";
+    "dpdns.org";
     "dphk.org";
     "dpool.top";
     "dpp.org.tw";
