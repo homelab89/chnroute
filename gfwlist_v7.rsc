@@ -1931,6 +1931,7 @@
     "gardennetworks.com";
     "gardennetworks.org";
     "gartlive.com";
+    "garudalinux.org";
     "gate.io";
     "gatecoin.com";
     "gather.com";
@@ -2010,6 +2011,7 @@
     "githubassets.com";
     "githubcopilot.com";
     "githubusercontent.com";
+    "gitlab.com";
     "gitlab.net";
     "gizlen.net";
     "gjczz.com";
@@ -3620,6 +3622,7 @@
     "ninjacloak.com";
     "ninjaproxy.ninja";
     "nintendium.com";
+    "nirsoft.net";
     "nitter.cc";
     "nitter.net";
     "niu.moe";
@@ -5490,6 +5493,7 @@
     "vpnworldwide.com";
     "vporn.com";
     "vpser.net";
+    "vpsxb.net";
     "vraiesagesse.net";
     "vrchat.com";
     "vrmtr.com";
