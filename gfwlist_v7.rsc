@@ -1187,6 +1187,7 @@
     "csw.org.uk";
     "ct.org.tw";
     "ctao.org";
+    "ctinets.com";
     "ctinews.com";
     "ctitv.com.tw";
     "ctowc.org";
@@ -2733,6 +2734,7 @@
     "internetdefenseleague.org";
     "internetfreedom.org";
     "internetpopculture.com";
+    "interseclab.org";
     "inthenameofconfuciusmovie.com";
     "investigating.wordpress.com";
     "invidio.us";
