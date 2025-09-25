@@ -5631,6 +5631,7 @@
     "wikimapia.org";
     "wikimedia.org";
     "wikinews.org";
+    "wikipedia.com";
     "wikipedia.org";
     "wikisource.org";
     "wikiversity.org";
