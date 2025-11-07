@@ -2686,6 +2686,7 @@
     "imageflea.com";
     "imageglass.org";
     "images-gaytube.com";
+    "images.prismic.io";
     "imageshack.us";
     "imagevenue.com";
     "imagezilla.net";
