@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bJYw9BxzdbRNG9z+wsK9/g
+! Checksum: sOMK9/IeVdGLXCt5GTJGqg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 17 Nov 2025 09:45:35 +0000
+! Last Modified: Wed, 19 Nov 2025 14:42:44 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -324,6 +324,7 @@
 69.65.19.160
 
 !----------------------IDN----------------------
+||xn--9iqy04a7fi01l.com
 ||xn--u2u927b.com
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
@@ -812,6 +813,7 @@ bloomberg.de
 .zzux.com
 
 !!--Cloudflare--
+||cloudflarestatus.com
 !--||pages.dev
 ||workers.dev
 ||one.one.one.one
@@ -1577,6 +1579,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||ai.dev
 ||adguard-vpn.com
 ||aoxvpn.com
 ||asianfanfics.com
@@ -4474,6 +4477,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||library-access.sk
 ||linux.do
 ||lmarena.ai
 ||lexica.art
@@ -4645,6 +4649,8 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mij.rip
+||mji.rip
 ||mjj.rip
 ||mcusercontent.com
 ||metamask.io
