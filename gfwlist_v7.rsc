@@ -2341,6 +2341,7 @@
     "greasyfork.org";
     "greatfire.org";
     "greatfire.us7.list-manage.com";
+    "greatfirevpn.com";
     "greatfirewall.biz";
     "greatfirewallofchina.org";
     "greatroc.org";
@@ -5671,6 +5672,7 @@
     "wikipedia.com";
     "wikipedia.org";
     "wikisource.org";
+    "wikiunblocked.org";
     "wikiversity.org";
     "wikivoyage.org";
     "wikiwand.com";
