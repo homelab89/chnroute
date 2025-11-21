@@ -3186,7 +3186,6 @@
     "lync.com";
     "lzjscript.com";
     "lzmtnews.org";
-    "m-team.cc";
     "m.hkgalden.com";
     "m.me";
     "m.moegirl.org";
