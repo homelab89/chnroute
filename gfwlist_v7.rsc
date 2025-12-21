@@ -4684,6 +4684,7 @@
     "startuplivingchina.com";
     "stat.gov.tw";
     "static-economist.com";
+    "static.pocketcasts.com";
     "static.shemalez.com";
     "static01.nyt.com";
     "staticflickr.com";
