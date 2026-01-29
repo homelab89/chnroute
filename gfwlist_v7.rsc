@@ -1867,6 +1867,7 @@
     "freess.org";
     "freessh.us";
     "freetcp.com";
+    "freeterabox.com";
     "freetibet.net";
     "freetibet.org";
     "freetibetanheroes.org";
