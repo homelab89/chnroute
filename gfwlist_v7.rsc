@@ -592,6 +592,7 @@
     "bitshare.com";
     "bitsnoop.com";
     "bitterwinter.org";
+    "bittorrent.com";
     "bitvise.com";
     "bitz.ai";
     "bizhat.com";
@@ -2441,6 +2442,7 @@
     "helpeachpeople.com";
     "helpster.de";
     "helpzhuling.org";
+    "hembed.com";
     "hentai.to";
     "hentaitube.tv";
     "hentaivideoworld.com";
@@ -5443,6 +5445,7 @@
     "uygur.org";
     "uymaarip.com";
     "v2.help";
+    "v2.hysteria.network";
     "v2ex.com";
     "v2fly.org";
     "v2ray.com";
