@@ -143,6 +143,7 @@
     "akamaihd.net";
     "akiba-online.com";
     "akiba-web.com";
+    "akile.io";
     "akinator.com";
     "akow.org";
     "alabout.com";
@@ -279,6 +280,7 @@
     "assembla.com";
     "assets-yammer.com";
     "assets.bwbx.io";
+    "assets.nxtrace.org";
     "assimp.org";
     "astrill.com";
     "atc.org.au";
@@ -2333,6 +2335,7 @@
     "mediafreakcity.com";
     "mediawiki.org";
     "medium.com";
+    "meee.com.tw";
     "meetup.com";
     "mega.co.nz";
     "mega.io";
@@ -2696,6 +2699,7 @@
     "ooni.org";
     "open.firstory.me";
     "openai.com";
+    "opencritic.com";
     "opendemocracy.net";
     "openid.net";
     "openleaks.org";
@@ -4062,6 +4066,7 @@
     "www.antd.org";
     "www.aolnews.com";
     "www.bing.com";
+    "www.clashverge.dev";
     "www.cmoinc.org";
     "www.dmm.com";
     "www.eastturkistan.net";
