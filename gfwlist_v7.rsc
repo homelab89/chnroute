@@ -3596,6 +3596,7 @@
     "topsy.com";
     "toptip.ca";
     "toptoon.net";
+    "tor.eff.org";
     "torguard.net";
     "torlock.com";
     "torproject.org";
@@ -3751,6 +3752,7 @@
     "underwoodammo.com";
     "unholyknight.com";
     "unirule.cloud";
+    "uniswap.org";
     "unknownspace.org";
     "unmineable.com";
     "unseen.is";
