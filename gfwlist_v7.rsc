@@ -83,6 +83,7 @@
     "a248.e.akamai.net";
     "aadrm.com";
     "aamacau.com";
+    "aave.com";
     "abc.net.au";
     "abc.xyz";
     "abebooks.co.uk";
