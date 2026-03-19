@@ -2671,8 +2671,10 @@
     "ohmyrss.com";
     "ok.ru";
     "okayfreedom.com";
+    "okcoin.com";
     "okex.com";
     "okk.tw";
+    "oklink.com";
     "okpool.me";
     "okx.com";
     "old.honeynet.org";
