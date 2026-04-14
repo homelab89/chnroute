@@ -1030,7 +1030,6 @@
     "douchi.space";
     "dougscripts.com";
     "doujincafe.com";
-    "download.aircrack-ng.org";
     "download.dappcdn.com";
     "dpool.top";
     "dpp.org.tw";
@@ -1829,8 +1828,6 @@
     "hk.jiepang.com";
     "hk01.com";
     "hka8964.wordpress.com";
-    "hkacg.com";
-    "hkacg.net";
     "hkanews.wordpress.com";
     "hkbookcity.com";
     "hkchronicles.com";
@@ -2500,7 +2497,6 @@
     "muzi.net";
     "muzu.tv";
     "mvg.jp";
-    "mx981.com";
     "my-private-network.co.uk";
     "my.pcloud.com";
     "myaudiocast.com";
@@ -2716,6 +2712,7 @@
     "ooni.org";
     "open.firstory.me";
     "openai.com";
+    "openart.ai";
     "opencritic.com";
     "opendemocracy.net";
     "openid.net";
@@ -3092,15 +3089,7 @@
     "rxhj.net";
     "s-cute.com";
     "s.yimg.com";
-    "s3-ap-*.amazonaws.com";
     "s3-ap-northeast-1.amazonaws.com";
-    "s3-ap-northeast-2.amazonaws.com";
-    "s3-ap-southeast-1.amazonaws.com";
-    "s3-ap-southeast-2.amazonaws.com";
-    "s3-eu-central-1.amazonaws.com";
-    "s3.ap-northeast-2.amazonaws.com";
-    "s3.eu-central-1.amazonaws.com";
-    "s3.us-east-1.amazonaws.com";
     "sacks.com";
     "sacom.hk";
     "sadistic-v.com";
@@ -3923,7 +3912,6 @@
     "vrporn.com";
     "vrsmash.com";
     "vtunnel.com";
-    "vuku.cc";
     "vultryhw.com";
     "vyprvpn.com";
     "w-pool.com";
@@ -4144,7 +4132,6 @@
     "xing.com";
     "xinjiangpolicefiles.org";
     "xinmiao.com.hk";
-    "xjp.cc";
     "xjtravelguide.com";
     "xm.com";
     "xml-training-guide.com";
