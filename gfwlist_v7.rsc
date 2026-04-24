@@ -3435,6 +3435,7 @@
     "tbsn.org";
     "tbssqh.org";
     "teachparentstech.org";
+    "techbang.com";
     "technews.tw";
     "techviz.net";
     "teck.in";
