@@ -96,6 +96,7 @@
     "acast.com";
     "accountkit.com";
     "acevpn.com";
+    "acg.mn";
     "acg.rip";
     "acg18.me";
     "acgbox.org";
@@ -431,6 +432,7 @@
     "blacked.com";
     "blackmagicdesign.com";
     "blackvpn.com";
+    "bleepingcomputer.com";
     "blinkx.com";
     "blip.tv";
     "blockcast.it";
@@ -543,6 +545,7 @@
     "books.com.tw";
     "booktopia.com.au";
     "bookwalker.com.tw";
+    "boomplay.com";
     "bootstrapcdn.com";
     "borgenmagazine.com";
     "botanwang.com";
@@ -810,6 +813,7 @@
     "cn.uptodown.com";
     "cna.com.tw";
     "cnbbnews.wordpress.com";
+    "cnbc.com";
     "cnbeta.com.tw";
     "cnd.org";
     "cnnews.chosun.com";
@@ -890,6 +894,7 @@
     "ct.org.tw";
     "ctinets.com";
     "ctinews.com";
+    "ctinsider.com";
     "ctitv.com.tw";
     "ctowc.org";
     "cts.com.tw";
@@ -1088,6 +1093,7 @@
     "economist.com";
     "ed2000k.com";
     "edgecastcdn.net";
+    "edigest.hk";
     "edubridge.com";
     "edx-cdn.org";
     "eesti.ee";
@@ -1825,6 +1831,7 @@
     "hinet.net";
     "hitbtc.com";
     "hitomi.la";
+    "hive.blog";
     "hiveon.net";
     "hk-pub.com";
     "hk.gradconnection.com";
@@ -1999,6 +2006,7 @@
     "indiemerch.com";
     "inews-api.tvb.com";
     "info-graf.fr";
+    "infosec.exchange";
     "infura.io";
     "inherit.live";
     "initiativesforchina.org";
@@ -2137,6 +2145,7 @@
     "kantie.org";
     "kaotic.com";
     "karayou.com";
+    "kathmandupost.com";
     "kawaiikawaii.jp";
     "kawase.com";
     "kb.monitorware.com";
@@ -2212,6 +2221,7 @@
     "legra.ph";
     "leisurepro.com";
     "lematin.ch";
+    "lemonde.fr";
     "lenwhite.com";
     "lesoir.be";
     "letscorp.net";
@@ -2225,6 +2235,7 @@
     "liberal.org.hk";
     "libertysculpturepark.com";
     "libertytimes.com.tw";
+    "libgen.is";
     "library-access.sk";
     "library.usc.cuhk.edu.hk";
     "libredd.it";
@@ -2350,6 +2361,7 @@
     "media.nu.nl";
     "mediachinese.com";
     "mediafreakcity.com";
+    "mediamatters.org";
     "mediawiki.org";
     "medium.com";
     "meee.com.tw";
@@ -2437,6 +2449,7 @@
     "mizzmona.com";
     "mji.rip";
     "mjj.rip";
+    "mjj.today";
     "mjlsh.usc.cuhk.edu.hk";
     "mlc.ai";
     "mlzs.work";
@@ -2497,6 +2510,7 @@
     "mubi.com";
     "mullvad.net";
     "multiply.com";
+    "music.amazon.com";
     "musixmatch.com";
     "muzi.com";
     "muzi.net";
@@ -2570,10 +2584,12 @@
     "news18.com";
     "newsancai.com";
     "newsblur.com";
+    "newshub.co.nz";
     "newsmax.com";
     "newstamago.com";
     "newstapa.org";
     "newstatesman.com";
+    "newstimes.com";
     "newsweek.com";
     "newtalk.tw";
     "newthuhole.com";
@@ -2588,6 +2604,8 @@
     "nflximg.net";
     "nflxso.net";
     "nflxvideo.net";
+    "nfsc.press";
+    "nfscofficial.com";
     "nftstorage.link";
     "nga.mil";
     "nhentai.net";
@@ -2745,6 +2763,7 @@
     "outlookmobile.com";
     "overcast.fm";
     "overdaily.org";
+    "overdrive.com";
     "overplay.net";
     "oversea.istarshine.com";
     "ovpn.com";
@@ -2796,6 +2815,7 @@
     "pemulihan.or.id";
     "pen.io";
     "pendrivelinux.com";
+    "penguin.com.au";
     "pentoy.hk";
     "peoplenews.tw";
     "peopo.org";
@@ -3086,6 +3106,7 @@
     "rti.org.tw";
     "rti.tw";
     "rtm.tnt-ea.com";
+    "rts.ch";
     "rule34.xxx";
     "rule34video.com";
     "rumble.com";
@@ -3200,6 +3221,7 @@
     "simpleswap.io";
     "simplex.chat";
     "sina.com.hk";
+    "sinchew.com.my";
     "singaporepools.com.sg";
     "singlelogin.me";
     "singlelogin.re";
@@ -3463,6 +3485,8 @@
     "tfiflve.com";
     "tg-me.com";
     "tg.dev";
+    "tgstat.com";
+    "the-sun.com";
     "theatlantic.com";
     "theatrum-belli.com";
     "thebcomplex.com";
@@ -3495,6 +3519,7 @@
     "thetatoken.org";
     "thetibetpost.com";
     "thetvdb.com";
+    "theweek.com";
     "thewgo.org";
     "thewirechina.com";
     "theync.com";
@@ -3669,6 +3694,7 @@
     "tv.jtbc.joins.com";
     "tvbanywhere.com";
     "tvboxnow.com";
+    "tvdy1.com";
     "tvunetworks.com";
     "tw-blog.com";
     "tw.jiepang.com";
@@ -3880,6 +3906,7 @@
     "voicettank.org";
     "vot.org";
     "vovo2000.com";
+    "vox.com";
     "voxer.com";
     "vpl.bibliocommons.com";
     "vpn.ac";
@@ -4061,6 +4088,7 @@
     "workatruna.com";
     "workerempowerment.org";
     "workers.dev";
+    "worldjournal.com";
     "worldvpn.net";
     "wowgirls.com";
     "wowhead.com";
