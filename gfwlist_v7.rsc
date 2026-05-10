@@ -938,6 +938,7 @@
     "darrenliuwei.com";
     "dashlane.com";
     "data-vocabulary.org";
+    "data18.com";
     "daum.net";
     "david-kilgour.com";
     "dawangidc.com";
@@ -1051,6 +1052,7 @@
     "dropboxusercontent.com";
     "dscn.info";
     "dstk.dk";
+    "dt18.com";
     "dtiblog.com";
     "dtic.mil";
     "dubox.com";
