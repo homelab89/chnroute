@@ -3215,6 +3215,7 @@
     "shwchurch.org";
     "shwchurch3.com";
     "sidelinesnews.com";
+    "sider.ai";
     "signal.org";
     "silvergatebank.com";
     "simbolostwitter.com";
@@ -4298,6 +4299,7 @@
     "zh.pokerstrategy.com";
     "zh.wikiquote.org";
     "zhangtianliang.com";
+    "zhangzhehan.net";
     "zhanlve.org";
     "zhao.1984.city";
     "zhengjian.org";
