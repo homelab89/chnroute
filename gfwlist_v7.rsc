@@ -1178,6 +1178,7 @@
     "f-droid.org";
     "f2pool.com";
     "f8.com";
+    "f95zone.to";
     "facebook.com";
     "facebook.de";
     "facebook.design";
@@ -1365,6 +1366,7 @@
     "fxnetworks.com";
     "g-area.org";
     "g-queen.com";
+    "g.ai";
     "g.co";
     "g0v.social";
     "g6hentai.com";
@@ -2226,6 +2228,7 @@
     "lematin.ch";
     "lemonde.fr";
     "lenwhite.com";
+    "leonardo.ai";
     "lesoir.be";
     "letscorp.net";
     "letsencrypt.org";
@@ -3031,6 +3034,7 @@
     "raizoji.or.jp";
     "rakuten.co.jp";
     "ramcity.com.au";
+    "raphael.app";
     "rapidmoviez.com";
     "rapidvpn.com";
     "rarbgprx.org";
@@ -3110,6 +3114,7 @@
     "rti.tw";
     "rtm.tnt-ea.com";
     "rts.ch";
+    "rule34.us";
     "rule34.xxx";
     "rule34video.com";
     "rumble.com";
@@ -3295,6 +3300,7 @@
     "sos.org";
     "sosad.fun";
     "sosreader.com";
+    "sotwe.com";
     "soubory.com";
     "soulcaliburhentai.net";
     "soundcloud.com";
