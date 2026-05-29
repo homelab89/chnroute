@@ -269,6 +269,7 @@
     "artstation.com";
     "arvanstorage.ir";
     "arweave.org";
+    "as.mr";
     "asacp.org";
     "asiaharvest.org";
     "asianage.com";
@@ -340,6 +341,7 @@
     "bangdream.space";
     "bangkokpost.com";
     "bangumi.moe";
+    "bangumi.tv";
     "bangyoulater.com";
     "bankmobilevibe.com";
     "bannedbook.org";
@@ -395,6 +397,7 @@
     "betvictor.com";
     "bfnn.org";
     "bfsh.hk";
+    "bgm.tv";
     "bgme.me";
     "bgvpn.com";
     "biblesforamerica.org";
@@ -714,6 +717,7 @@
     "chenshan20042005.wordpress.com";
     "cherrysave.com";
     "chhongbi.org";
+    "chii.in";
     "china-mmm.net";
     "china-review.com.ua";
     "china-week.com";
@@ -815,7 +819,6 @@
     "cn.uptodown.com";
     "cna.com.tw";
     "cnbbnews.wordpress.com";
-    "cnbc.com";
     "cnbeta.com.tw";
     "cnd.org";
     "cnnews.chosun.com";
@@ -1400,6 +1403,7 @@
     "geek-art.net";
     "gekikame.com";
     "gelbooru.com";
+    "gencraft.com";
     "generated.photos";
     "genius.com";
     "geotrust.com";
@@ -1822,6 +1826,7 @@
     "hicairo.com";
     "hiccears.com";
     "hidden-advent.org";
+    "hiddify.com";
     "hide.me";
     "hideipvpn.com";
     "hideman.net";
@@ -3283,7 +3288,6 @@
     "socks-proxy.net";
     "sockslist.net";
     "socrec.org";
-    "softether-download.com";
     "softether.co.jp";
     "softether.org";
     "softfamous.com";
@@ -3868,6 +3872,7 @@
     "vatn.org";
     "vcf-online.org";
     "vcfbuilder.org";
+    "veed.io";
     "vegas.williamhill.com";
     "vegasred.com";
     "venetianmacao.com";
@@ -4247,7 +4252,6 @@
     "yfsp.tv";
     "yhcw.net";
     "yibaochina.com";
-    "yidio.com";
     "yigeni.com";
     "yipub.com";
     "yizhihongxing.com";
