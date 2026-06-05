@@ -2792,7 +2792,6 @@
     "pacom.mil";
     "pacopacomama.com";
     "page.link";
-    "pages.dev";
     "paimon.moe";
     "pancakeswap.finance";
     "pandafan.pub";
@@ -3417,6 +3416,7 @@
     "surfeasy.com.au";
     "surfshark.com";
     "surrenderat20.net";
+    "suyingtv.com";
     "svc.ms";
     "swagbucks.com";
     "swapspace.co";
@@ -4116,6 +4116,7 @@
     "wowporn.com";
     "woyaolian.org";
     "wp.com";
+    "wplace.live";
     "wpoforum.com";
     "writesonic.com";
     "wsj.com";
