@@ -1450,6 +1450,7 @@
     "geotrust.com";
     "geph.io";
     "get.app";
+    "get.dappcdn.com";
     "get.dev";
     "get.how";
     "get.page";
