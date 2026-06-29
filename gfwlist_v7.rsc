@@ -1189,6 +1189,7 @@
     "expekt.com";
     "exploader.net";
     "express.co.uk";
+    "expressnews.com";
     "expressvpn.com";
     "exrates.me";
     "extmatrix.com";
