@@ -801,6 +801,7 @@
     "civitai.com";
     "cixiaoya.club";
     "ck101.com";
+    "clashyun.com";
     "classicalguitarblog.net";
     "claude.ai";
     "claude.com";
@@ -3526,6 +3527,7 @@
     "syncback.com";
     "synergyse.com";
     "syosetu.com";
+    "sysub.com";
     "t-g.com";
     "t.co";
     "t.me";
