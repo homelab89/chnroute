@@ -4418,6 +4418,7 @@
     "zello.com";
     "zenmate.com";
     "zenmate.com.ru";
+    "zenmux.ai";
     "zerohedge.com";
     "zeronet.io";
     "zh-hans.cfsh99.com";
