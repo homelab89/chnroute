@@ -789,6 +789,7 @@
     "cia.gov";
     "cici.com";
     "ciciai.com";
+    "circle19.org";
     "cirosantilli.com";
     "citizencn.com";
     "citizenlab.ca";
@@ -2208,6 +2209,7 @@
     "kantie.org";
     "kaotic.com";
     "karayou.com";
+    "kards.com";
     "kathmandupost.com";
     "kawaiikawaii.jp";
     "kawase.com";
