@@ -2296,6 +2296,7 @@
     "lesoir.be";
     "letscorp.net";
     "letsencrypt.org";
+    "level-plus.net";
     "lexica.art";
     "lhakar.org";
     "li.taipei";
@@ -3968,6 +3969,7 @@
     "uyghurtribunal.com";
     "uygur.fc2web.com";
     "uymaarip.com";
+    "v.recipes";
     "v2.help";
     "v2.hysteria.network";
     "v2ex.com";
