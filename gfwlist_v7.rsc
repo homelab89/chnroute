@@ -3225,6 +3225,7 @@
     "s-cute.com";
     "s.yimg.com";
     "s3-ap-northeast-1.amazonaws.com";
+    "s3.dualstack.us-west-2.amazonaws.com";
     "sacks.com";
     "sacom.hk";
     "sadistic-v.com";
@@ -4193,6 +4194,7 @@
     "windows.net";
     "windowsazure.com";
     "windscribe.com";
+    "windy.com";
     "wingamestore.com";
     "wingy.site";
     "wionews.com";
