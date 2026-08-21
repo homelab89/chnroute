@@ -580,6 +580,7 @@
     "breakgfw.com";
     "breakingtweets.com";
     "breakwall.net";
+    "briarproject.org";
     "brill.com";
     "brizzly.com";
     "broadpressinc.com";
@@ -722,6 +723,7 @@
     "chat.com";
     "chat.lmsys.org";
     "chatgpt.com";
+    "chatgpt.site";
     "chatpdf.com";
     "chaturbate.com";
     "checkgfw.com";
