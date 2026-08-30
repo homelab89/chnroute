@@ -1480,6 +1480,7 @@
     "getmalus.com";
     "getmdl.io";
     "getmicrosoftkey.com";
+    "getmonero.org";
     "getoutline.org";
     "getsession.org";
     "getsync.com";
@@ -2710,6 +2711,7 @@
     "nhentai.net";
     "nic.cz.cc";
     "nic.gov";
+    "nicoseiga.jp";
     "nicovideo.jp";
     "nightswatch.top";
     "nikke-en.com";
