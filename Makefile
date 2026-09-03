@@ -1,6 +1,6 @@
 .PHONY: all gen
 
-FILES := generate.sh
+FILES := generate.sh generate_cn.sh
 
 all: gen
 
