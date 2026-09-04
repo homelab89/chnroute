@@ -919,6 +919,7 @@
     "csuchen.de";
     "csw.org.uk";
     "ct.org.tw";
+    "ctee.com.tw";
     "ctinets.com";
     "ctinews.com";
     "ctinsider.com";
@@ -1919,6 +1920,7 @@
     "hkcoc.com";
     "hkcoc.weather.com.hk";
     "hkdc.us";
+    "hkej.com";
     "hket.com";
     "hkfaa.com";
     "hkgalden.com";
@@ -2343,6 +2345,7 @@
     "linktr.ee";
     "linux.do";
     "linux.org.hk";
+    "linux.sb";
     "liquiditytp.com";
     "liquidvpn.com";
     "listennotes.com";
