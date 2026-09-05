@@ -8,6 +8,8 @@
     "1000giri.net";
     "10beasts.net";
     "10musume.com";
+    "123av.com";
+    "123av.me";
     "12bet.com";
     "12vpn.com";
     "12vpn.net";
@@ -1877,6 +1879,7 @@
     "helpeachpeople.com";
     "helpster.de";
     "hembed.com";
+    "hentai.tv";
     "heqinglian.net";
     "heritage.org";
     "herokuapp.com";
@@ -3203,6 +3206,7 @@
     "rmbl.ws";
     "roblox.com";
     "robustnessiskey.com";
+    "roc-taiwan.org";
     "rocket-inc.net";
     "rocket.chat";
     "rocksdb.org";
@@ -3212,6 +3216,7 @@
     "rolsociety.org";
     "ronjoneswriter.com";
     "rou.video";
+    "roushuwo.com";
     "rsdlmonitor.com";
     "rsf-chinese.org";
     "rsf.org";
@@ -3521,6 +3526,7 @@
     "superpages.com";
     "supervpn.net";
     "superzooi.com";
+    "supjav.com";
     "support.futunn.com";
     "supremecourt.gov";
     "suprememastertv.com";
@@ -3557,10 +3563,12 @@
     "taaze.tw";
     "taedp.org.tw";
     "tagwalk.com";
+    "taiav.com";
     "tails.net";
     "taipeisociety.org";
     "taipeitimes.com";
     "taisounds.com";
+    "taiwanembassy.org";
     "taiwanhot.net";
     "taiwanjustice.net";
     "taiwanncf.org.tw";
@@ -4254,6 +4262,7 @@
     "writesonic.com";
     "wsj.com";
     "wsj.net";
+    "wtfpass.com";
     "wufafangwen.com";
     "wufi.org.tw";
     "wujieliulan.com";
