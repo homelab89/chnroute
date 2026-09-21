@@ -772,6 +772,7 @@
     "chinesegay.org";
     "chinesen.de";
     "chinesenews.net.au";
+    "chineseposters.net";
     "chineseradioseattle.com";
     "chineseupress.com";
     "chingcheong.com";
@@ -2736,6 +2737,7 @@
     "nordstromrack.com";
     "nordvpn.com";
     "nos.nl";
+    "note.com";
     "notepad-plus-plus.org";
     "nottinghampost.com";
     "now.com";
