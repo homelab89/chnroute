@@ -1421,6 +1421,7 @@
     "futustatic.com";
     "fututrade.com";
     "fututrustee.com";
+    "fuyin116.com";
     "fw.cm";
     "fxcm-chinese.com";
     "fxnetworks.com";
@@ -2609,6 +2610,7 @@
     "mubi.com";
     "mullvad.net";
     "multiply.com";
+    "muse.ai";
     "music.amazon.com";
     "musixmatch.com";
     "muzi.com";
