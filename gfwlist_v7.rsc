@@ -3346,6 +3346,7 @@
     "simplex.chat";
     "sina.com.hk";
     "sinchew.com.my";
+    "sing-box.sagernet.org";
     "singaporepools.com.sg";
     "singlelogin.me";
     "singlelogin.re";
