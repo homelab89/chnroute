@@ -140,6 +140,7 @@
     "agro.hk";
     "ai.dev";
     "ai.studio";
+    "aidc.com.tw";
     "aihub.top";
     "aiosearch.com";
     "aiph.net";
@@ -546,6 +547,7 @@
     "bloombergview.com";
     "bloomfortune.com";
     "blubrry.com";
+    "blue-plus.net";
     "bmdru.com";
     "bnbstatic.com";
     "bnext.com.tw";
@@ -568,6 +570,7 @@
     "boxpn.com";
     "boxun.com";
     "boxun.tv";
+    "boylove.cc";
     "boysmaster.com";
     "br.st";
     "braumeister.org";
@@ -644,6 +647,7 @@
     "campaign-archive.com";
     "campaignforuyghurs.org";
     "cams.com";
+    "cangku.moe";
     "canva.com";
     "canyu.org";
     "caobian.info";
@@ -888,6 +892,7 @@
     "coursehero.com";
     "covenantswatch.org.tw";
     "coze.com";
+    "cpc.com.tw";
     "cpj.org";
     "cpu-monkey.com";
     "cq99.us";
@@ -910,6 +915,7 @@
     "crucial.com";
     "crunchyroll.com";
     "cruxpool.com";
+    "csc.com.tw";
     "csdparty.com";
     "csis.org";
     "csmonitor.com";
@@ -1000,6 +1006,7 @@
     "devio.us";
     "devpn.com";
     "devv.ai";
+    "dh.net";
     "diaoyuislands.org";
     "digicert.com";
     "digiland.tw";
@@ -1191,6 +1198,7 @@
     "evschool.net";
     "exchristian.hk";
     "exhentai.org";
+    "eximbank.com.tw";
     "exmo.com";
     "exmormon.org";
     "expatshield.com";
@@ -1853,7 +1861,9 @@
     "hakkatv.org.tw";
     "halktv.com.tr";
     "hanime.tv";
+    "hanime1.com";
     "hanime1.me";
+    "hanimeone.me";
     "hardsextube.com";
     "hautelook.com";
     "hautelookcdn.com";
@@ -1876,6 +1886,7 @@
     "helpster.de";
     "hembed.com";
     "hentai.tv";
+    "hentaiclub.net";
     "heqinglian.net";
     "heritage.org";
     "herokuapp.com";
@@ -2022,6 +2033,7 @@
     "iask.ca";
     "iavian.net";
     "ibvpn.com";
+    "icdf.org.tw";
     "icedrive.net";
     "icij.org";
     "icl-fi.org";
@@ -2079,6 +2091,7 @@
     "indiandefensenews.in";
     "indiatoday.in";
     "indiemerch.com";
+    "indsr.org.tw";
     "inews-api.tvb.com";
     "info-graf.fr";
     "infosec.exchange";
@@ -2105,6 +2118,7 @@
     "investing.com";
     "invidio.us";
     "inxian.com";
+    "ipac.global";
     "ipdefenseforum.com";
     "ipfire.org";
     "ipfs.4everland.io";
@@ -2163,9 +2177,11 @@
     "jav321.com";
     "javakiba.org";
     "javbus.com";
+    "javchu.com";
     "javdb.com";
     "javfinder.ai";
     "javfor.me";
+    "javfree.me";
     "javhub.net";
     "javhuge.com";
     "javlibrary.com";
@@ -2187,6 +2203,7 @@
     "jinx.com";
     "jitouch.com";
     "jkb.cc";
+    "jkforum.net";
     "jma.go.jp";
     "jmsc.hku.hk";
     "jmscult.com";
@@ -2235,6 +2252,7 @@
     "keycdn.com";
     "kfor.com";
     "khatrimaza.org";
+    "khc.edu.tw";
     "kichiku-doujinko.com";
     "kik.com";
     "killwall.com";
@@ -2280,6 +2298,7 @@
     "lama.com.tw";
     "lamayeshe.com";
     "lamnia.co.uk";
+    "landbank.com.tw";
     "landofhope.tv";
     "lantern.io";
     "laogai.org";
@@ -2437,6 +2456,7 @@
     "mastodon.xyz";
     "matainja.com";
     "material.io";
+    "matichon.co.th";
     "matome-plus.com";
     "matome-plus.net";
     "matrix.org";
@@ -2531,11 +2551,14 @@
     "ministrybooks.org";
     "minzhuzhongguo.org";
     "miraheze.org";
+    "mirdc.org.tw";
     "miroguide.com";
     "mirror.xyz";
     "mirrorbooks.com";
     "mirrormedia.mg";
+    "missav.ai";
     "missav.com";
+    "missav.live";
     "missav.ws";
     "mistral.ai";
     "mitbbs.com";
@@ -2559,6 +2582,7 @@
     "mod.io";
     "modernchinastudies.org";
     "moeerolibrary.com";
+    "moeli-desu.com";
     "moeshare.cc";
     "mog.com";
     "mohu.club";
@@ -2649,6 +2673,7 @@
     "nationalawakening.org";
     "nationalinterest.org";
     "nationalreview.com";
+    "nationthailand.com";
     "nationwide.com";
     "naughtyamerica.com";
     "naver.com";
@@ -2660,6 +2685,7 @@
     "nchrd.org";
     "ncn.org";
     "ndi.org";
+    "ned.org";
     "nekoslovakia.net";
     "neo-miracle.com";
     "neodb.social";
@@ -2751,6 +2777,7 @@
     "npsboost.com";
     "nradio.me";
     "nrk.no";
+    "nstc.org.tw";
     "ntd.tv";
     "ntdtv.com";
     "ntdtv.com.tw";
@@ -3003,6 +3030,7 @@
     "points-media.com";
     "pokerstars.com";
     "pokerstars.net";
+    "poland.tw";
     "politicalchina.org";
     "poloniex.com";
     "polymarket.com";
@@ -3101,6 +3129,7 @@
     "qiangwaikan.com";
     "qiangyou.org";
     "qianmo.tw";
+    "qingse.one";
     "qiwen.lu";
     "qmp4.com";
     "qobuz.com";
@@ -3203,6 +3232,7 @@
     "rocket-inc.net";
     "rocket.chat";
     "rocksdb.org";
+    "rocmgov.org";
     "rojo.com";
     "rolfoundation.org";
     "rolia.net";
@@ -3614,6 +3644,7 @@
     "textnow.com";
     "textnow.me";
     "tfc-taiwan.org.tw";
+    "tfd.org.tw";
     "tfhub.dev";
     "tfiflve.com";
     "tg-me.com";
@@ -3808,6 +3839,7 @@
     "tryheart.jp";
     "tsdr.uspto.gov";
     "tt1069.com";
+    "ttl.com.tw";
     "tttan.com";
     "ttv.com.tw";
     "ttvnw.net";
@@ -3860,6 +3892,7 @@
     "tweez.net";
     "twelve.today";
     "twerkingbutt.com";
+    "twfhcsec.com.tw";
     "twftp.org";
     "twgov.tw";
     "twgreatdaily.com";
@@ -3902,6 +3935,7 @@
     "twtkr.com";
     "twttr.com";
     "tx.me";
+    "tybio.com.tw";
     "tycool.com";
     "typepad.com";
     "typeset.io";
@@ -4094,6 +4128,7 @@
     "vrchat.com";
     "vrporn.com";
     "vrsmash.com";
+    "vscc.org.tw";
     "vtunnel.com";
     "vultryhw.com";
     "vyprvpn.com";
@@ -4359,6 +4394,7 @@
     "xvideos.com";
     "xvideos.es";
     "xvinlink.com";
+    "xx.net";
     "xxx.com";
     "xxx.xxx";
     "xxxx.com.au";
