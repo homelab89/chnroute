@@ -3711,6 +3711,7 @@
 :do { add forward-to=$alidns type=FWD regexp="3464\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="346888\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="346g4247o9\\.world\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="346tudx\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="348b60ac51011\\.beer\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="34a14155f1016\\.beer\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="34c5fe453528e605\\.com\$" } on-error={}
@@ -8719,6 +8720,7 @@
 :do { add forward-to=$alidns type=FWD regexp="91meitu\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="91mh\\.me\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="91miaoshou\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="91mtp\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="91muzhi\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="91ninthpalace\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="91nzh\\.com\$" } on-error={}
@@ -10064,6 +10066,7 @@
 :do { add forward-to=$alidns type=FWD regexp="adlainortye\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="adlefee\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="adlefei\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="adlingsi\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="adlo\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="adluckin\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="adm88888\\.com\$" } on-error={}
@@ -10285,6 +10288,7 @@
 :do { add forward-to=$alidns type=FWD regexp="aflytec\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="afriendx\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="afrindex\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="afs-static\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="afshanghai\\.org\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="afszc\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="aft1v1\\.com\$" } on-error={}
@@ -24775,6 +24779,7 @@
 :do { add forward-to=$alidns type=FWD regexp="cosyjoy\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="cosz\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="cotek-robotics\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="cotenhao31\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="cotong\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="cotticoffee\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="cotv\\.tv\$" } on-error={}
@@ -26316,6 +26321,7 @@
 :do { add forward-to=$alidns type=FWD regexp="cupmcn\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="cuppot\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="curlc\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="curlymobi\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="current\\.vc\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="cursor\\.zone\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="curtisasia\\.com\$" } on-error={}
@@ -27412,6 +27418,7 @@
 :do { add forward-to=$alidns type=FWD regexp="dashu\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dashubaba\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dashuju123\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="dasiotravel\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dasiyingyu\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dasong108\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dasoujia\\.com\$" } on-error={}
@@ -28300,6 +28307,7 @@
 :do { add forward-to=$alidns type=FWD regexp="dfjyun\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dfkhgj\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dfkj\\.cc\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="dfldgx\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dflzm\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dflzmxs\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dfmc\\.com\$" } on-error={}
@@ -29386,6 +29394,7 @@
 :do { add forward-to=$alidns type=FWD regexp="dnsis\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dnsjia\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dnsjiasu001\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="dnsjp\\.cc\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dnsjxla\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dnslin\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dnsmeasurement\\.com\$" } on-error={}
@@ -30008,6 +30017,7 @@
 :do { add forward-to=$alidns type=FWD regexp="dptechnology\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dptel\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dpurat\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="dpweixin\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dpwl\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dpxkjw\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="dpxq\\.com\$" } on-error={}
@@ -32196,6 +32206,7 @@
 :do { add forward-to=$alidns type=FWD regexp="enfodesk\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="enforever\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="eng24\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="engagelab\\.email\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="engeniustec\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="engeyuan\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="engley\\.com\$" } on-error={}
@@ -35573,6 +35584,7 @@
 :do { add forward-to=$alidns type=FWD regexp="fuma-carbide\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="fumake\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="fumaofawu\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="fumhwl\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="fumi\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="fumiaoyinpin\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="fumin\\.com\$" } on-error={}
@@ -38270,6 +38282,7 @@
 :do { add forward-to=$alidns type=FWD regexp="goertek\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="goetheslz\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gofarqzyy\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="goflac\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="goforandroid\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gofreeplay\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gofrp\\.org\$" } on-error={}
@@ -39925,6 +39938,7 @@
 :do { add forward-to=$alidns type=FWD regexp="gxcmgr\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gxcncec\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gxcors\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="gxcould\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gxcounty\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gxcpa\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gxcq188\\.com\$" } on-error={}
@@ -41927,6 +41941,7 @@
 :do { add forward-to=$alidns type=FWD regexp="gzqixun-tech\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gzqljxd\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gzqsts\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="gzquans\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gzqunsheng\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gzqygl\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="gzqz\\.com\$" } on-error={}
@@ -52498,6 +52513,7 @@
 :do { add forward-to=$alidns type=FWD regexp="jhconba\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jhctbank\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jhddsz\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="jhdexpress\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jhdmro\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jhdpower\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jhdxjk\\.com\$" } on-error={}
@@ -52764,6 +52780,7 @@
 :do { add forward-to=$alidns type=FWD regexp="jianguoyun\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jiangweishan\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jiangxiatech\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="jiangxin-tech\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jiangxinkeji\\.club\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jiangxiol\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jiangxirc\\.com\$" } on-error={}
@@ -53597,6 +53614,7 @@
 :do { add forward-to=$alidns type=FWD regexp="jinmenrc\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinming\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinmixuetang\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="jinmo\\.tech\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinmogame\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinmuinfo\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinnong\\.cc\$" } on-error={}
@@ -53658,6 +53676,7 @@
 :do { add forward-to=$alidns type=FWD regexp="jinshanmz\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinshasitemuseum\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinshaxuexiao\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="jinsheng73\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinshengceramics\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinshengtang\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="jinsheyi\\.com\$" } on-error={}
@@ -56828,6 +56847,7 @@
 :do { add forward-to=$alidns type=FWD regexp="kaowana\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="kaowang\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="kaowx\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="kaoyagogo\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="kaoyan\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="kaoyan\\.org\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="kaoyan1v1\\.com\$" } on-error={}
@@ -62075,6 +62095,7 @@
 :do { add forward-to=$alidns type=FWD regexp="luckao\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="luckeeinc\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="luckforcalendar\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="luckin\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="luckincalendar\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="luckincdn\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="luckincoffee\\.co\$" } on-error={}
@@ -66165,6 +66186,7 @@
 :do { add forward-to=$alidns type=FWD regexp="mtab\\.cc\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="mtadvert\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="mtadx\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="mtakm\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="mtaokj\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="mtavip\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="mtblj\\.com\$" } on-error={}
@@ -69828,6 +69850,7 @@
 :do { add forward-to=$alidns type=FWD regexp="ofo\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="ofpay\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="ofpay365\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="ofulai\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="ofuns\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="ofweek\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="ofweek\\.net\$" } on-error={}
@@ -70734,6 +70757,7 @@
 :do { add forward-to=$alidns type=FWD regexp="owulia\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="oxbridgedu\\.org\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="oxerr\\.net\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="oxflac\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="oxiang\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="oxiaohua\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="oxiranchem\\.com\$" } on-error={}
@@ -74749,6 +74773,7 @@
 :do { add forward-to=$alidns type=FWD regexp="qrtest\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="qrtz\\.co\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="qrx\\.cc\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="qrytsa\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="qrzxx\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="qs-jt\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="qs12315\\.com\$" } on-error={}
@@ -77451,6 +77476,7 @@
 :do { add forward-to=$alidns type=FWD regexp="safenext\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="safetyimg\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="safetystatic\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="safetytaxfree\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="safetyvod\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="safround\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sagigame\\.net\$" } on-error={}
@@ -83300,6 +83326,7 @@
 :do { add forward-to=$alidns type=FWD regexp="sparkeduapi\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sparkeducdn\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sparkletour\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="sparknexa\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="spasvo\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="spawor\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="spay365\\.com\$" } on-error={}
@@ -84228,6 +84255,7 @@
 :do { add forward-to=$alidns type=FWD regexp="sungent\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sungesoft\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sungine\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="sungivenplus\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sunglow-tec\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sungoal\\.org\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sungoedu\\.com\$" } on-error={}
@@ -84604,6 +84632,7 @@
 :do { add forward-to=$alidns type=FWD regexp="svipgulr\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="sviping\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="svlik\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="svlqgh\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="svn999\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="svnbucket\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="svnspot\\.com\$" } on-error={}
@@ -86468,6 +86497,7 @@
 :do { add forward-to=$alidns type=FWD regexp="taoniupin\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="taooo\\.cc\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="taopb\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="taopianzy\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="taopiaopiao\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="taopic\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="taopinquan\\.com\$" } on-error={}
@@ -90897,6 +90927,7 @@
 :do { add forward-to=$alidns type=FWD regexp="union555\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="unioncom\\.cc\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="unioncyber\\.net\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="unionflink\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="unionli\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="unionpay\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="unionpay\\.net\$" } on-error={}
@@ -98290,6 +98321,7 @@
 :do { add forward-to=$alidns type=FWD regexp="xijingjianzhan9\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xikang365\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xikcloud\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="xikestor\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xikii\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xikoutourism\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xikuan\\.com\$" } on-error={}
@@ -99719,6 +99751,7 @@
 :do { add forward-to=$alidns type=FWD regexp="xn--xkr190gv5p\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xn--xkr999cp4fv97a\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xn--xkrs9ba41r\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="xn--xwrq59aduur60a\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xn--y8jhmm6gn\\.moe\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xn--yetw60a\\.xyz\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xn--ygtp21bwyedsq\\.com\$" } on-error={}
@@ -100023,6 +100056,7 @@
 :do { add forward-to=$alidns type=FWD regexp="xthinking\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xthtc\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xthyjt\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="xtia\\.design\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xtiai\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xtianlang\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="xtibet\\.com\$" } on-error={}
@@ -102693,6 +102727,7 @@
 :do { add forward-to=$alidns type=FWD regexp="yinjispace\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yinka\\.co\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yinkead\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="yinkeshidai\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yinlimedia\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yinlingshuyuan\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yinmakeji\\.com\$" } on-error={}
@@ -104234,6 +104269,7 @@
 :do { add forward-to=$alidns type=FWD regexp="yr-info\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yr17\\.net\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yr3\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="yr4c3jo8ry\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yra2\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yracc\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yrapp\\.net\$" } on-error={}
@@ -105428,6 +105464,7 @@
 :do { add forward-to=$alidns type=FWD regexp="yx1312\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yx192\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yx231\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="yx338\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yx643\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yx7088\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yx74\\.com\$" } on-error={}
@@ -105670,6 +105707,7 @@
 :do { add forward-to=$alidns type=FWD regexp="yytek\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yytfood\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yytiflytek\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="yytsks\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yyuap\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yyutfzv\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yywd\\.com\$" } on-error={}
@@ -105717,6 +105755,7 @@
 :do { add forward-to=$alidns type=FWD regexp="yz-li\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yz-machinery\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yz-proton\\.com\$" } on-error={}
+:do { add forward-to=$alidns type=FWD regexp="yz-shield\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yz-show\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yz-xd\\.com\$" } on-error={}
 :do { add forward-to=$alidns type=FWD regexp="yz0752\\.com\$" } on-error={}
