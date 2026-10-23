@@ -877,6 +877,7 @@
     "compileheart.com";
     "connect.facebook.net";
     "conoha.jp";
+    "console.typesafe.ai";
     "contests.twilio.com";
     "cool18.com";
     "coolaler.com";
@@ -1440,6 +1441,7 @@
     "g.co";
     "g0v.social";
     "g6hentai.com";
+    "ga.jspm.io";
     "gab.com";
     "gabocorp.com";
     "gagaoolala.com";
